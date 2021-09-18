@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	font-family: "MinecraftiaRegular";
+	font-weight: normal;
+	font-style: normal;
+	background-image: url("./components/minecraft-background.png");
+	background-repeat: no-repeat;
+}
+
+.card-container {
+	display: flex;
+	flex-direction: column;
+	height: 15%;
+	width: 15%;
+	margin: 2%;
+}
+
+.card-container:hover {
+	cursor: pointer;
+}
+
+.description {
+	text-align: center;
+	margin-top: 5%;
+	font-size: 1vw;
+	color: #eee;
+}
+
+.all-cards {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-75%, -45%);
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 30vw;
+	border-radius: 15px;
+	padding: 2%;
+}
+
+.header {
+	text-align: center;
+	color: #eee;
+}
