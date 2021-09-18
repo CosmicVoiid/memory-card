@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.eb20dd6d.chunk.css",
+    "main.js": "/memory-card/static/js/main.ced0ff51.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.ced0ff51.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.b6b71f6e.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.b6b71f6e.js.map",
+    "static/js/2.ac876fa1.chunk.js": "/memory-card/static/js/2.ac876fa1.chunk.js",
+    "static/js/2.ac876fa1.chunk.js.map": "/memory-card/static/js/2.ac876fa1.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.eb20dd6d.chunk.css.map": "/memory-card/static/css/main.eb20dd6d.chunk.css.map",
+    "static/js/2.ac876fa1.chunk.js.LICENSE.txt": "/memory-card/static/js/2.ac876fa1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/memory-card/static/media/minecraft-background.2b27bcab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b71f6e.js",
+    "static/js/2.ac876fa1.chunk.js",
+    "static/css/main.eb20dd6d.chunk.css",
+    "static/js/main.ced0ff51.chunk.js"
+  ]
+}
