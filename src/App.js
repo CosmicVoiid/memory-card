@@ -73,6 +73,12 @@ function App() {
 		}
 	}, [currentScore, highScore]);
 
+	useEffect(() => {
+		let arrayCopy = [...imgArray];
+		arrayCopy = shuffle(arrayCopy);
+		setImgArray(arrayCopy);
+	}, []);
+
 	return (
 		<div>
 			<div className="header">
